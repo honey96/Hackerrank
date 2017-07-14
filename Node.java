@@ -1,5 +1,5 @@
+///Trees: Is This a Binary Search Tree?
 package test;
-
 public class Node {
 	Node left,right;
 	int data;
